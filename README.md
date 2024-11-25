@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 ## About Me
 - 🏫 I am currently studying at HCMUT as a Computer Engineering Student. 
 
-- 💡 I am interested in IoTs, and some Hardware Languages too. 
+- 💡 I am interested in IoTs. 
 
 - 📧 My contact email: duy.nguyendang04@hcmut.edu.vn
 
