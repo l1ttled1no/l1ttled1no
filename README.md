@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
   <a href="https://www.x.com/l1ttled1no">
     <img src="./img/x.png" alt="X" width="" height="30">
   </a> 
-<a href="https://www.youtube.com/l1ttled1no">
+<a href="https://www.youtube.com/@l1ttled1no">
     <img src="./img/youtube-logo-png-transparent.png" alt="X" width="" height="30">
   </a>
 </div>
