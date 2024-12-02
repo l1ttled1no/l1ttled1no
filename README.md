@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 - 💡 I am interested in IoTs. 
 
-- 📧 My contact email: duy.nguyendang04@hcmut.edu.vn
+- 📧 My contact email: duy.nguyendang04@hcmut.edu.vn | dino.admin@l1tttled1no.id.vn
 
 
 ## GitHub Stats
