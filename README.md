@@ -1,6 +1,6 @@
 # Hi there, I'm l1ttled1no! 👋
 
-Welcome to my GitHub profile! I'm passionate about software development and love to explore new technologies. Here you'll find a collection of my projects, experiments, and contributions to the open-source community.
+Welcome to my GitHub profile! I'm passionate about embedded system and love to explore new technologies. Here you'll find a collection of my projects, experiments, and contributions to the open-source community.
 
 ## About Me
 - 🏫 I am currently studying at HCMUT as a Computer Engineering Student. 
