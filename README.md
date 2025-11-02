@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about embedded system and love to e
 
 - 💡 I am interested in IoTs and Embedded Systems. 
 
-- 📧 My contact email: duy.nguyendang04@hcmut.edu.vn (School) | dino.admin@l1tttled1no.id.vn (Personal) 
+- 📧 My contact email: duy.nguyendang04@hcmut.edu.vn (School) | duy@l1tttled1no.id.vn (Personal) 
 
 
 ## GitHub Stats
